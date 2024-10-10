@@ -1,0 +1,31 @@
+.fondo1{
+background: rgb(30,221,227);
+background: linear-gradient(90deg, rgba(30,221,227,1) 0%,
+ rgba(60,240,76,1) 46%, rgba(24,195,230,1) 100%);
+}
+
+.fondo2{
+background: rgb(218,227,30);
+background: linear-gradient(90deg, rgba(218,227,30,1) 0%,
+ rgba(240,190,60,1) 68%, rgba(252,38,83,1) 100%);
+}
+
+.centrado{
+    text-align: center;
+}
+
+.textpag1{
+color: brown;
+border: 1px solid brown;
+padding: 10 px;
+display: inline-block;
+
+}
+
+.textpag2{
+color: rgb(46, 165, 42);
+border: 1px solid rgb(42, 165, 52);
+padding: 10 px;
+display: inline-block;
+
+}
